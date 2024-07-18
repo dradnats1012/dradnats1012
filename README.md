@@ -14,5 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dradnats1012)](https://github.com/anuraghazra/github-readme-stats)
-[![dradnats's GitHub stats](https://github-readme-stats.vercel.app/api?username=dradnats1012)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/dradnats1012"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdradnats1012&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+
+
+<div>
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=dmb07301" width="42%" height="100%"/>
+</div>
+
+<!--
+# My GitHub Profile
+
+## 📊 GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dradnats1012&show_icons=true&theme=radical)
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dradnats1012&layout=compact)
+-->
+
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dradnats1012&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
