@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div align="center">
 <!--
 **dradnats1012/dradnats1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,3 +39,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dradnats1012&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
+
+
+  ###   📌 My log 📌
+<a href="https://blog.naver.com/dradnats1012" target="_blank"><img src="https://img.shields.io/badge/blog-90EE90?style=plastic&logo=naver&logoColor=000000"/></a>
+<a href="https://velog.io/@dradnats1012" target="_blank"><img src="https://img.shields.io/badge/velog-008B8B?style=plastic&logo=velog&logoColor=FFFFFF"/></a>
+
+</div>
