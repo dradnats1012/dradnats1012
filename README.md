@@ -1,5 +1,5 @@
-### Hi there 👋
-<div align="center">
+# Hi there 👋
+
 <!--
 **dradnats1012/dradnats1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 <a href="https://github.com/dradnats1012"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdradnats1012&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
 ![허준기's GitHub stats](https://github-readme-stats.vercel.app/api?username=dradnats1012&show_icons=true&theme=radical)
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 
   ###   📌 My log 📌
 <a href="https://blog.naver.com/dradnats1012" target="_blank"><img src="https://img.shields.io/badge/blog-90EE90?style=plastic&logo=naver&logoColor=000000"/></a>
-<a href="https://velog.io/@dradnats1012" target="_blank"><img src="https://img.shields.io/badge/velog-008B8B?style=plastic&logo=velog&logoColor=FFFFFF"/></a>
+<a href="https://velog.io/@dradnats1012/posts" target="_blank"><img src="https://img.shields.io/badge/velog-008B8B?style=plastic&logo=velog&logoColor=FFFFFF"/></a>
 
 </div>
