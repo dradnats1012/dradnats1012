@@ -24,6 +24,12 @@ Here are some ideas to get you started:
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=dmb07301" width="42%" height="100%"/>
 </div>
 
+
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dradnats1012&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/dradnats1012"
@@ -31,26 +37,11 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-<!--
-# My GitHub Profile
-
-## 📊 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dradnats1012&show_icons=true&theme=radical)
-
-## 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dradnats1012&layout=compact)
--->
-
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dradnats1012&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
 
 
   ###   📌 My log 📌
 <a href="https://blog.naver.com/dradnats1012" target="_blank"><img src="https://img.shields.io/badge/blog-90EE90?style=plastic&logo=naver&logoColor=000000"/></a>
 <a href="https://velog.io/@dradnats1012/posts" target="_blank"><img src="https://img.shields.io/badge/velog-008B8B?style=plastic&logo=velog&logoColor=FFFFFF"/></a>
+
 
 </div>
