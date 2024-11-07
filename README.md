@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
 <a href="https://github.com/dradnats1012"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdradnats1012&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
@@ -23,6 +24,13 @@ Here are some ideas to get you started:
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=dmb07301" width="42%" height="100%"/>
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/dradnats1012"
+  width="600"
+  height="300"
+/>
+</a>
 <!--
 # My GitHub Profile
 
